@@ -1,9 +1,9 @@
 # Healthcare
 Automatic Diabetic Retinopathy Detection using pretrained models1
 1.Use predict.py to test an image.
-2.link for ResNet model trained with 50 epochs when only classifier is trained
+2.link for ResNet model trained with 30 epochs when only classifier is trained
 https://drive.google.com/file/d/14gKzlEUiipWXxfL94CQNftFOmb3t31Gf/view?usp=sharing
-3.link for ResNet model trained with 50 epochs when following layers are added:
+3.link for ResNet model trained with 30 epochs when following layers are added:
 https://drive.google.com/file/d/1gvKICsx8S5BEWLbek_gKJAWdbQELwTED/view?usp=sharing
 
 # Fine tune the resnet 50
